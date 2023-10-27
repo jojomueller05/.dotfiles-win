@@ -1,0 +1,51 @@
+{
+	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate" : "2023-10-27T12:07:35.300-00:00",
+	"Sources" : 
+	[
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudioCode"
+				}, {
+					"PackageIdentifier": "Google.Chrome"
+				}, {
+					"PackageIdentifier": "Brave.Brave"
+				}, {
+					"PackageIdentifier": "Devolutions.RemoteDesktopManager"
+				}, {
+					"PackageIdentifier": "Microsoft.Teams"
+				}, {
+					"PackageIdentifier": "Oracle.VirtualBox"
+				}, {
+					"PackageIdentifier": "Notion.Notion"
+				}, {
+					"PackageIdentifier": "WhatsApp.WhatsApp"
+				}, {
+					"PackageIdentifier": "Starship.Starship"
+				}, {
+					"PackageIdentifier": "Git.Git"
+				}, {
+					"PackageIdentifier": "Balena.Etcher"
+				}, {
+					"PackageIdentifier": "DeepL.DeepL"
+				}, {
+					"PackageIdentifier": "7zip.7zip"
+				}, {
+					"PackageIdentifier": "Greenshot.Greenshot"
+				}, {
+					"PackageIdentifier": "Microsoft.WindowsTerminal"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://cdn.winget.microsoft.com/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
+			}
+		}
+	],
+	"WinGetVersion" : "1.6.2771"
+}
