@@ -19,6 +19,8 @@
 				}, {
 					"PackageIdentifier": "Logseq.Logseq"
 				}, {
+					"PackageIdentifier": "Syncthing.Syncthing"
+				},{
 					"PackageIdentifier": "WhatsApp.WhatsApp"
 				}, {
 					"PackageIdentifier": "Starship.Starship"
