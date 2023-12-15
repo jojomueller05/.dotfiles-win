@@ -9,8 +9,6 @@
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
 				}, {
-					"PackageIdentifier": "Google.Chrome"
-				}, {
 					"PackageIdentifier": "Brave.Brave"
 				}, {
 					"PackageIdentifier": "Devolutions.RemoteDesktopManager"
@@ -19,7 +17,7 @@
 				}, {
 					"PackageIdentifier": "Oracle.VirtualBox"
 				}, {
-					"PackageIdentifier": "Notion.Notion"
+					"PackageIdentifier": "Logseq.Logseq"
 				}, {
 					"PackageIdentifier": "WhatsApp.WhatsApp"
 				}, {
@@ -36,6 +34,8 @@
 					"PackageIdentifier": "Greenshot.Greenshot"
 				}, {
 					"PackageIdentifier": "Microsoft.WindowsTerminal"
+				}, {
+					"PackageIdentifier": "lsd-rs.lsd"
 				}
 			],
 			"SourceDetails" : 
